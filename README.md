@@ -1,7 +1,7 @@
 **Assignments 1A to 1F, topics tested:**
-- Assignment 1A: DESCRIPTIVE STATISTICS & PROBABILITY
-- Assignment 1B: EXPECTATION & ENTROPY
-- Assignment 1C: MLE, DISTRIBUTION & INFERENCE
-- Assignment 1D: HYPOTHESIS TESTING & CONFIDENCE INTERVAL
-- Assignment 1E: REGRESSION & CLASSIFICATION
-- Assignment 1F: SIMULATION & FURTHER MODELLING
+- Assignment 1A: descriptive statistics & probability
+- Assignment 1B: expectation & entropy
+- Assignment 1C: mle, distribution & inference
+- Assignment 1D: hypothesis testing & confidence interval
+- Assignment 1E: regression & classification
+- Assignment 1F: simulation & further modelling
